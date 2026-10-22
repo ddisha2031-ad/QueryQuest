@@ -1,0 +1,11 @@
+# Metric Definitions
+- **Total tickets:** count of unique ticket_id values.
+- **Open backlog:** tickets with status Open or Pending.
+- **Resolved tickets:** tickets with a non-null resolved_at.
+- **Average / median first-response time:** minutes from created_at to first_response_at; only tickets with a response timestamp.
+- **Average / median resolution time:** minutes from created_at to resolved_at; only resolved or closed tickets.
+- **SLA compliance rate:** resolved tickets whose resolution time is at or below the priority target, divided by all tickets eligible for evaluation, times 100. Missing SLA data is never counted as compliance.
+- **SLA breach:** resolved ticket exceeding target, or unresolved ticket whose elapsed age exceeds target as of the reporting timestamp.
+- **Reopen rate:** tickets with reopened_count > 0 divided by total tickets, times 100.
+- **Backlog age:** hours from created_at to the reporting timestamp for unresolved tickets.
+- **Monthly volume change:** percentage change versus the prior month.

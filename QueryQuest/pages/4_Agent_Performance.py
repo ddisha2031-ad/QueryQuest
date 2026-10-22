@@ -1,0 +1,10 @@
+import streamlit as st, plotly.express as px
+f=st.session_state["filtered"]()
+st.header("Agent & Team Performance")
+st.caption("Rankings include sample sizes; raw volume or CSAT alone can be misleading.")
+agg=f.groupby("agent_id").agg(tickets=("ticket_id","count"),resolved=("resolved_at",lambda s:s.notna().sum()),open_backlog=("is_open","sum"),avg_csat=("satisfaction_score","mean")).reset_index()
+agg=agg.merge(st.session_state["filtered"].__globals__['t']["agents"],on="agent_id")
+c1,c2=st.columns(2)
+c1.plotly_chart(px.bar(agg.nlargest(15,"tickets"),x="agent_name",y="tickets",title="Top 15 agents by assigned tickets"),use_container_width=True)
+c2.plotly_chart(px.bar(agg.nlargest(15,"open_backlog"),x="agent_name",y="open_backlog",title="Top 15 agents by open backlog"),use_container_width=True)
+st.dataframe(agg)

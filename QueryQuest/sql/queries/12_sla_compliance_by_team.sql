@@ -1,0 +1,3 @@
+-- SLA compliance by support team
+-- Tables: tickets, sla_policies, teams
+WITH e AS (SELECT t.*, p.target_resolution_minutes, CASE WHEN t.resolved_at IS NOT NULL THEN (julianday(t.resolved_at)-julianday(t.created_at))*1440 ELSE (julianday('now')-julianday(t.created_at))*1440 END AS elapsed FROM tickets t JOIN sla_policies p ON p.policy_id=t.policy_id) SELECT tm.team_name, COUNT(*) AS tickets, SUM(CASE WHEN t.resolved_at IS NOT NULL AND elapsed<=target_resolution_minutes THEN 1 ELSE 0 END) AS met, ROUND(100.0*SUM(CASE WHEN t.resolved_at IS NOT NULL AND elapsed<=target_resolution_minutes THEN 1 ELSE 0 END)/COUNT(*),2) AS sla_compliance_rate FROM e t JOIN teams tm ON tm.team_id=t.team_id GROUP BY tm.team_name ORDER BY sla_compliance_rate;

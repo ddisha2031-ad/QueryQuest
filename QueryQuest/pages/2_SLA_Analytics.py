@@ -1,0 +1,12 @@
+import streamlit as st, plotly.express as px, pandas as pd
+f=st.session_state["filtered"]()
+st.header("SLA & Response Analytics")
+if f.empty: st.warning("No tickets match the selected filters."); st.stop()
+sla=pd.read_csv("exports/11_sla_compliance_by_priority.csv")
+c1,c2=st.columns(2)
+c1.plotly_chart(px.histogram(f[f.response_minutes.notna()],x="response_minutes",nbins=50,title="First-response time (minutes)"),use_container_width=True)
+c2.plotly_chart(px.histogram(f[f.resolution_minutes.notna()],x="resolution_minutes",nbins=50,title="Resolution time (minutes)"),use_container_width=True)
+st.plotly_chart(px.bar(sla,x="priority",y="sla_compliance_rate",title="SLA compliance by priority (%)",text="sla_compliance_rate"),use_container_width=True)
+breach=pd.read_csv("exports/13_sla_breaches_by_category.csv")
+st.plotly_chart(px.bar(breach,x="category",y="sla_breaches",title="SLA breaches by category"),use_container_width=True)
+st.dataframe(sla)

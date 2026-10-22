@@ -1,0 +1,3 @@
+-- Team comparison using CTEs
+-- Tables: tickets, sla_policies, teams
+WITH base AS (SELECT t.team_id, COUNT(*) tickets, SUM(CASE WHEN t.resolved_at IS NOT NULL THEN 1 ELSE 0 END) resolved, AVG(t.satisfaction_score) avg_csat FROM tickets t GROUP BY t.team_id), sla AS (SELECT t.team_id, ROUND(100.0*SUM(CASE WHEN t.resolved_at IS NOT NULL AND (julianday(t.resolved_at)-julianday(t.created_at))*1440<=p.target_resolution_minutes THEN 1 ELSE 0 END)/COUNT(*),2) sla_rate FROM tickets t JOIN sla_policies p ON p.policy_id=t.policy_id GROUP BY t.team_id) SELECT tm.team_name, b.tickets, b.resolved, ROUND(b.avg_csat,2) avg_csat, s.sla_rate FROM base b JOIN sla s ON s.team_id=b.team_id JOIN teams tm ON tm.team_id=b.team_id ORDER BY b.tickets DESC;

@@ -1,0 +1,3 @@
+-- Resolution time versus satisfaction score
+-- Tables: tickets
+SELECT CASE WHEN (julianday(resolved_at)-julianday(created_at))*1440 < 240 THEN 'Under 4 hours' WHEN (julianday(resolved_at)-julianday(created_at))*1440 < 1440 THEN '4-24 hours' WHEN (julianday(resolved_at)-julianday(created_at))*1440 < 4320 THEN '1-3 days' ELSE 'Over 3 days' END AS resolution_bucket, COUNT(*) AS tickets, ROUND(AVG(satisfaction_score),2) AS avg_csat FROM tickets WHERE resolved_at IS NOT NULL AND satisfaction_score IS NOT NULL GROUP BY resolution_bucket ORDER BY MIN((julianday(resolved_at)-julianday(created_at))*1440);

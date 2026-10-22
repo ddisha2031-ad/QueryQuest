@@ -1,0 +1,1201 @@
+customer_id,customer_segment,region,customer_since
+1,Mid-Market,Europe,2018-01-14
+2,Enterprise,APAC,2018-01-27
+3,SMB,LATAM,2018-02-09
+4,Mid-Market,North America,2018-02-22
+5,Enterprise,Europe,2018-03-07
+6,SMB,APAC,2018-03-20
+7,Mid-Market,LATAM,2018-04-02
+8,Enterprise,North America,2018-04-15
+9,SMB,Europe,2018-04-28
+10,Mid-Market,APAC,2018-05-11
+11,Enterprise,LATAM,2018-05-24
+12,SMB,North America,2018-06-06
+13,Mid-Market,Europe,2018-06-19
+14,Enterprise,APAC,2018-07-02
+15,SMB,LATAM,2018-07-15
+16,Mid-Market,North America,2018-07-28
+17,Enterprise,Europe,2018-08-10
+18,SMB,APAC,2018-08-23
+19,Mid-Market,LATAM,2018-09-05
+20,Enterprise,North America,2018-09-18
+21,SMB,Europe,2018-10-01
+22,Mid-Market,APAC,2018-10-14
+23,Enterprise,LATAM,2018-10-27
+24,SMB,North America,2018-11-09
+25,Mid-Market,Europe,2018-11-22
+26,Enterprise,APAC,2018-12-05
+27,SMB,LATAM,2018-12-18
+28,Mid-Market,North America,2018-12-31
+29,Enterprise,Europe,2019-01-13
+30,SMB,APAC,2019-01-26
+31,Mid-Market,LATAM,2019-02-08
+32,Enterprise,North America,2019-02-21
+33,SMB,Europe,2019-03-06
+34,Mid-Market,APAC,2019-03-19
+35,Enterprise,LATAM,2019-04-01
+36,SMB,North America,2019-04-14
+37,Mid-Market,Europe,2019-04-27
+38,Enterprise,APAC,2019-05-10
+39,SMB,LATAM,2019-05-23
+40,Mid-Market,North America,2019-06-05
+41,Enterprise,Europe,2019-06-18
+42,SMB,APAC,2019-07-01
+43,Mid-Market,LATAM,2019-07-14
+44,Enterprise,North America,2019-07-27
+45,SMB,Europe,2019-08-09
+46,Mid-Market,APAC,2019-08-22
+47,Enterprise,LATAM,2019-09-04
+48,SMB,North America,2019-09-17
+49,Mid-Market,Europe,2019-09-30
+50,Enterprise,APAC,2019-10-13
+51,SMB,LATAM,2019-10-26
+52,Mid-Market,North America,2019-11-08
+53,Enterprise,Europe,2019-11-21
+54,SMB,APAC,2019-12-04
+55,Mid-Market,LATAM,2019-12-17
+56,Enterprise,North America,2019-12-30
+57,SMB,Europe,2020-01-12
+58,Mid-Market,APAC,2020-01-25
+59,Enterprise,LATAM,2020-02-07
+60,SMB,North America,2020-02-20
+61,Mid-Market,Europe,2020-03-04
+62,Enterprise,APAC,2020-03-17
+63,SMB,LATAM,2020-03-30
+64,Mid-Market,North America,2020-04-12
+65,Enterprise,Europe,2020-04-25
+66,SMB,APAC,2020-05-08
+67,Mid-Market,LATAM,2020-05-21
+68,Enterprise,North America,2020-06-03
+69,SMB,Europe,2020-06-16
+70,Mid-Market,APAC,2020-06-29
+71,Enterprise,LATAM,2020-07-12
+72,SMB,North America,2020-07-25
+73,Mid-Market,Europe,2020-08-07
+74,Enterprise,APAC,2020-08-20
+75,SMB,LATAM,2020-09-02
+76,Mid-Market,North America,2020-09-15
+77,Enterprise,Europe,2020-09-28
+78,SMB,APAC,2020-10-11
+79,Mid-Market,LATAM,2020-10-24
+80,Enterprise,North America,2020-11-06
+81,SMB,Europe,2020-11-19
+82,Mid-Market,APAC,2020-12-02
+83,Enterprise,LATAM,2020-12-15
+84,SMB,North America,2020-12-28
+85,Mid-Market,Europe,2021-01-10
+86,Enterprise,APAC,2021-01-23
+87,SMB,LATAM,2021-02-05
+88,Mid-Market,North America,2021-02-18
+89,Enterprise,Europe,2021-03-03
+90,SMB,APAC,2021-03-16
+91,Mid-Market,LATAM,2021-03-29
+92,Enterprise,North America,2021-04-11
+93,SMB,Europe,2021-04-24
+94,Mid-Market,APAC,2021-05-07
+95,Enterprise,LATAM,2021-05-20
+96,SMB,North America,2021-06-02
+97,Mid-Market,Europe,2021-06-15
+98,Enterprise,APAC,2021-06-28
+99,SMB,LATAM,2021-07-11
+100,Mid-Market,North America,2021-07-24
+101,Enterprise,Europe,2021-08-06
+102,SMB,APAC,2021-08-19
+103,Mid-Market,LATAM,2021-09-01
+104,Enterprise,North America,2021-09-14
+105,SMB,Europe,2021-09-27
+106,Mid-Market,APAC,2021-10-10
+107,Enterprise,LATAM,2021-10-23
+108,SMB,North America,2021-11-05
+109,Mid-Market,Europe,2021-11-18
+110,Enterprise,APAC,2021-12-01
+111,SMB,LATAM,2021-12-14
+112,Mid-Market,North America,2021-12-27
+113,Enterprise,Europe,2022-01-09
+114,SMB,APAC,2022-01-22
+115,Mid-Market,LATAM,2022-02-04
+116,Enterprise,North America,2022-02-17
+117,SMB,Europe,2022-03-02
+118,Mid-Market,APAC,2022-03-15
+119,Enterprise,LATAM,2022-03-28
+120,SMB,North America,2022-04-10
+121,Mid-Market,Europe,2022-04-23
+122,Enterprise,APAC,2022-05-06
+123,SMB,LATAM,2022-05-19
+124,Mid-Market,North America,2022-06-01
+125,Enterprise,Europe,2022-06-14
+126,SMB,APAC,2022-06-27
+127,Mid-Market,LATAM,2022-07-10
+128,Enterprise,North America,2022-07-23
+129,SMB,Europe,2022-08-05
+130,Mid-Market,APAC,2022-08-18
+131,Enterprise,LATAM,2022-08-31
+132,SMB,North America,2022-09-13
+133,Mid-Market,Europe,2022-09-26
+134,Enterprise,APAC,2022-10-09
+135,SMB,LATAM,2022-10-22
+136,Mid-Market,North America,2022-11-04
+137,Enterprise,Europe,2022-11-17
+138,SMB,APAC,2022-11-30
+139,Mid-Market,LATAM,2022-12-13
+140,Enterprise,North America,2022-12-26
+141,SMB,Europe,2023-01-08
+142,Mid-Market,APAC,2023-01-21
+143,Enterprise,LATAM,2023-02-03
+144,SMB,North America,2023-02-16
+145,Mid-Market,Europe,2023-03-01
+146,Enterprise,APAC,2023-03-14
+147,SMB,LATAM,2023-03-27
+148,Mid-Market,North America,2023-04-09
+149,Enterprise,Europe,2023-04-22
+150,SMB,APAC,2023-05-05
+151,Mid-Market,LATAM,2023-05-18
+152,Enterprise,North America,2023-05-31
+153,SMB,Europe,2023-06-13
+154,Mid-Market,APAC,2023-06-26
+155,Enterprise,LATAM,2023-07-09
+156,SMB,North America,2023-07-22
+157,Mid-Market,Europe,2023-08-04
+158,Enterprise,APAC,2023-08-17
+159,SMB,LATAM,2023-08-30
+160,Mid-Market,North America,2023-09-12
+161,Enterprise,Europe,2023-09-25
+162,SMB,APAC,2023-10-08
+163,Mid-Market,LATAM,2023-10-21
+164,Enterprise,North America,2023-11-03
+165,SMB,Europe,2023-11-16
+166,Mid-Market,APAC,2023-11-29
+167,Enterprise,LATAM,2023-12-12
+168,SMB,North America,2023-12-25
+169,Mid-Market,Europe,2024-01-07
+170,Enterprise,APAC,2024-01-20
+171,SMB,LATAM,2024-02-02
+172,Mid-Market,North America,2024-02-15
+173,Enterprise,Europe,2024-02-28
+174,SMB,APAC,2024-03-12
+175,Mid-Market,LATAM,2024-03-25
+176,Enterprise,North America,2024-04-07
+177,SMB,Europe,2024-04-20
+178,Mid-Market,APAC,2024-05-03
+179,Enterprise,LATAM,2024-05-16
+180,SMB,North America,2024-05-29
+181,Mid-Market,Europe,2024-06-11
+182,Enterprise,APAC,2024-06-24
+183,SMB,LATAM,2024-07-07
+184,Mid-Market,North America,2024-07-20
+185,Enterprise,Europe,2024-08-02
+186,SMB,APAC,2024-08-15
+187,Mid-Market,LATAM,2024-08-28
+188,Enterprise,North America,2024-09-10
+189,SMB,Europe,2024-09-23
+190,Mid-Market,APAC,2024-10-06
+191,Enterprise,LATAM,2024-10-19
+192,SMB,North America,2024-11-01
+193,Mid-Market,Europe,2018-01-10
+194,Enterprise,APAC,2018-01-23
+195,SMB,LATAM,2018-02-05
+196,Mid-Market,North America,2018-02-18
+197,Enterprise,Europe,2018-03-03
+198,SMB,APAC,2018-03-16
+199,Mid-Market,LATAM,2018-03-29
+200,Enterprise,North America,2018-04-11
+201,SMB,Europe,2018-04-24
+202,Mid-Market,APAC,2018-05-07
+203,Enterprise,LATAM,2018-05-20
+204,SMB,North America,2018-06-02
+205,Mid-Market,Europe,2018-06-15
+206,Enterprise,APAC,2018-06-28
+207,SMB,LATAM,2018-07-11
+208,Mid-Market,North America,2018-07-24
+209,Enterprise,Europe,2018-08-06
+210,SMB,APAC,2018-08-19
+211,Mid-Market,LATAM,2018-09-01
+212,Enterprise,North America,2018-09-14
+213,SMB,Europe,2018-09-27
+214,Mid-Market,APAC,2018-10-10
+215,Enterprise,LATAM,2018-10-23
+216,SMB,North America,2018-11-05
+217,Mid-Market,Europe,2018-11-18
+218,Enterprise,APAC,2018-12-01
+219,SMB,LATAM,2018-12-14
+220,Mid-Market,North America,2018-12-27
+221,Enterprise,Europe,2019-01-09
+222,SMB,APAC,2019-01-22
+223,Mid-Market,LATAM,2019-02-04
+224,Enterprise,North America,2019-02-17
+225,SMB,Europe,2019-03-02
+226,Mid-Market,APAC,2019-03-15
+227,Enterprise,LATAM,2019-03-28
+228,SMB,North America,2019-04-10
+229,Mid-Market,Europe,2019-04-23
+230,Enterprise,APAC,2019-05-06
+231,SMB,LATAM,2019-05-19
+232,Mid-Market,North America,2019-06-01
+233,Enterprise,Europe,2019-06-14
+234,SMB,APAC,2019-06-27
+235,Mid-Market,LATAM,2019-07-10
+236,Enterprise,North America,2019-07-23
+237,SMB,Europe,2019-08-05
+238,Mid-Market,APAC,2019-08-18
+239,Enterprise,LATAM,2019-08-31
+240,SMB,North America,2019-09-13
+241,Mid-Market,Europe,2019-09-26
+242,Enterprise,APAC,2019-10-09
+243,SMB,LATAM,2019-10-22
+244,Mid-Market,North America,2019-11-04
+245,Enterprise,Europe,2019-11-17
+246,SMB,APAC,2019-11-30
+247,Mid-Market,LATAM,2019-12-13
+248,Enterprise,North America,2019-12-26
+249,SMB,Europe,2020-01-08
+250,Mid-Market,APAC,2020-01-21
+251,Enterprise,LATAM,2020-02-03
+252,SMB,North America,2020-02-16
+253,Mid-Market,Europe,2020-02-29
+254,Enterprise,APAC,2020-03-13
+255,SMB,LATAM,2020-03-26
+256,Mid-Market,North America,2020-04-08
+257,Enterprise,Europe,2020-04-21
+258,SMB,APAC,2020-05-04
+259,Mid-Market,LATAM,2020-05-17
+260,Enterprise,North America,2020-05-30
+261,SMB,Europe,2020-06-12
+262,Mid-Market,APAC,2020-06-25
+263,Enterprise,LATAM,2020-07-08
+264,SMB,North America,2020-07-21
+265,Mid-Market,Europe,2020-08-03
+266,Enterprise,APAC,2020-08-16
+267,SMB,LATAM,2020-08-29
+268,Mid-Market,North America,2020-09-11
+269,Enterprise,Europe,2020-09-24
+270,SMB,APAC,2020-10-07
+271,Mid-Market,LATAM,2020-10-20
+272,Enterprise,North America,2020-11-02
+273,SMB,Europe,2020-11-15
+274,Mid-Market,APAC,2020-11-28
+275,Enterprise,LATAM,2020-12-11
+276,SMB,North America,2020-12-24
+277,Mid-Market,Europe,2021-01-06
+278,Enterprise,APAC,2021-01-19
+279,SMB,LATAM,2021-02-01
+280,Mid-Market,North America,2021-02-14
+281,Enterprise,Europe,2021-02-27
+282,SMB,APAC,2021-03-12
+283,Mid-Market,LATAM,2021-03-25
+284,Enterprise,North America,2021-04-07
+285,SMB,Europe,2021-04-20
+286,Mid-Market,APAC,2021-05-03
+287,Enterprise,LATAM,2021-05-16
+288,SMB,North America,2021-05-29
+289,Mid-Market,Europe,2021-06-11
+290,Enterprise,APAC,2021-06-24
+291,SMB,LATAM,2021-07-07
+292,Mid-Market,North America,2021-07-20
+293,Enterprise,Europe,2021-08-02
+294,SMB,APAC,2021-08-15
+295,Mid-Market,LATAM,2021-08-28
+296,Enterprise,North America,2021-09-10
+297,SMB,Europe,2021-09-23
+298,Mid-Market,APAC,2021-10-06
+299,Enterprise,LATAM,2021-10-19
+300,SMB,North America,2021-11-01
+301,Mid-Market,Europe,2021-11-14
+302,Enterprise,APAC,2021-11-27
+303,SMB,LATAM,2021-12-10
+304,Mid-Market,North America,2021-12-23
+305,Enterprise,Europe,2022-01-05
+306,SMB,APAC,2022-01-18
+307,Mid-Market,LATAM,2022-01-31
+308,Enterprise,North America,2022-02-13
+309,SMB,Europe,2022-02-26
+310,Mid-Market,APAC,2022-03-11
+311,Enterprise,LATAM,2022-03-24
+312,SMB,North America,2022-04-06
+313,Mid-Market,Europe,2022-04-19
+314,Enterprise,APAC,2022-05-02
+315,SMB,LATAM,2022-05-15
+316,Mid-Market,North America,2022-05-28
+317,Enterprise,Europe,2022-06-10
+318,SMB,APAC,2022-06-23
+319,Mid-Market,LATAM,2022-07-06
+320,Enterprise,North America,2022-07-19
+321,SMB,Europe,2022-08-01
+322,Mid-Market,APAC,2022-08-14
+323,Enterprise,LATAM,2022-08-27
+324,SMB,North America,2022-09-09
+325,Mid-Market,Europe,2022-09-22
+326,Enterprise,APAC,2022-10-05
+327,SMB,LATAM,2022-10-18
+328,Mid-Market,North America,2022-10-31
+329,Enterprise,Europe,2022-11-13
+330,SMB,APAC,2022-11-26
+331,Mid-Market,LATAM,2022-12-09
+332,Enterprise,North America,2022-12-22
+333,SMB,Europe,2023-01-04
+334,Mid-Market,APAC,2023-01-17
+335,Enterprise,LATAM,2023-01-30
+336,SMB,North America,2023-02-12
+337,Mid-Market,Europe,2023-02-25
+338,Enterprise,APAC,2023-03-10
+339,SMB,LATAM,2023-03-23
+340,Mid-Market,North America,2023-04-05
+341,Enterprise,Europe,2023-04-18
+342,SMB,APAC,2023-05-01
+343,Mid-Market,LATAM,2023-05-14
+344,Enterprise,North America,2023-05-27
+345,SMB,Europe,2023-06-09
+346,Mid-Market,APAC,2023-06-22
+347,Enterprise,LATAM,2023-07-05
+348,SMB,North America,2023-07-18
+349,Mid-Market,Europe,2023-07-31
+350,Enterprise,APAC,2023-08-13
+351,SMB,LATAM,2023-08-26
+352,Mid-Market,North America,2023-09-08
+353,Enterprise,Europe,2023-09-21
+354,SMB,APAC,2023-10-04
+355,Mid-Market,LATAM,2023-10-17
+356,Enterprise,North America,2023-10-30
+357,SMB,Europe,2023-11-12
+358,Mid-Market,APAC,2023-11-25
+359,Enterprise,LATAM,2023-12-08
+360,SMB,North America,2023-12-21
+361,Mid-Market,Europe,2024-01-03
+362,Enterprise,APAC,2024-01-16
+363,SMB,LATAM,2024-01-29
+364,Mid-Market,North America,2024-02-11
+365,Enterprise,Europe,2024-02-24
+366,SMB,APAC,2024-03-08
+367,Mid-Market,LATAM,2024-03-21
+368,Enterprise,North America,2024-04-03
+369,SMB,Europe,2024-04-16
+370,Mid-Market,APAC,2024-04-29
+371,Enterprise,LATAM,2024-05-12
+372,SMB,North America,2024-05-25
+373,Mid-Market,Europe,2024-06-07
+374,Enterprise,APAC,2024-06-20
+375,SMB,LATAM,2024-07-03
+376,Mid-Market,North America,2024-07-16
+377,Enterprise,Europe,2024-07-29
+378,SMB,APAC,2024-08-11
+379,Mid-Market,LATAM,2024-08-24
+380,Enterprise,North America,2024-09-06
+381,SMB,Europe,2024-09-19
+382,Mid-Market,APAC,2024-10-02
+383,Enterprise,LATAM,2024-10-15
+384,SMB,North America,2024-10-28
+385,Mid-Market,Europe,2018-01-06
+386,Enterprise,APAC,2018-01-19
+387,SMB,LATAM,2018-02-01
+388,Mid-Market,North America,2018-02-14
+389,Enterprise,Europe,2018-02-27
+390,SMB,APAC,2018-03-12
+391,Mid-Market,LATAM,2018-03-25
+392,Enterprise,North America,2018-04-07
+393,SMB,Europe,2018-04-20
+394,Mid-Market,APAC,2018-05-03
+395,Enterprise,LATAM,2018-05-16
+396,SMB,North America,2018-05-29
+397,Mid-Market,Europe,2018-06-11
+398,Enterprise,APAC,2018-06-24
+399,SMB,LATAM,2018-07-07
+400,Mid-Market,North America,2018-07-20
+401,Enterprise,Europe,2018-08-02
+402,SMB,APAC,2018-08-15
+403,Mid-Market,LATAM,2018-08-28
+404,Enterprise,North America,2018-09-10
+405,SMB,Europe,2018-09-23
+406,Mid-Market,APAC,2018-10-06
+407,Enterprise,LATAM,2018-10-19
+408,SMB,North America,2018-11-01
+409,Mid-Market,Europe,2018-11-14
+410,Enterprise,APAC,2018-11-27
+411,SMB,LATAM,2018-12-10
+412,Mid-Market,North America,2018-12-23
+413,Enterprise,Europe,2019-01-05
+414,SMB,APAC,2019-01-18
+415,Mid-Market,LATAM,2019-01-31
+416,Enterprise,North America,2019-02-13
+417,SMB,Europe,2019-02-26
+418,Mid-Market,APAC,2019-03-11
+419,Enterprise,LATAM,2019-03-24
+420,SMB,North America,2019-04-06
+421,Mid-Market,Europe,2019-04-19
+422,Enterprise,APAC,2019-05-02
+423,SMB,LATAM,2019-05-15
+424,Mid-Market,North America,2019-05-28
+425,Enterprise,Europe,2019-06-10
+426,SMB,APAC,2019-06-23
+427,Mid-Market,LATAM,2019-07-06
+428,Enterprise,North America,2019-07-19
+429,SMB,Europe,2019-08-01
+430,Mid-Market,APAC,2019-08-14
+431,Enterprise,LATAM,2019-08-27
+432,SMB,North America,2019-09-09
+433,Mid-Market,Europe,2019-09-22
+434,Enterprise,APAC,2019-10-05
+435,SMB,LATAM,2019-10-18
+436,Mid-Market,North America,2019-10-31
+437,Enterprise,Europe,2019-11-13
+438,SMB,APAC,2019-11-26
+439,Mid-Market,LATAM,2019-12-09
+440,Enterprise,North America,2019-12-22
+441,SMB,Europe,2020-01-04
+442,Mid-Market,APAC,2020-01-17
+443,Enterprise,LATAM,2020-01-30
+444,SMB,North America,2020-02-12
+445,Mid-Market,Europe,2020-02-25
+446,Enterprise,APAC,2020-03-09
+447,SMB,LATAM,2020-03-22
+448,Mid-Market,North America,2020-04-04
+449,Enterprise,Europe,2020-04-17
+450,SMB,APAC,2020-04-30
+451,Mid-Market,LATAM,2020-05-13
+452,Enterprise,North America,2020-05-26
+453,SMB,Europe,2020-06-08
+454,Mid-Market,APAC,2020-06-21
+455,Enterprise,LATAM,2020-07-04
+456,SMB,North America,2020-07-17
+457,Mid-Market,Europe,2020-07-30
+458,Enterprise,APAC,2020-08-12
+459,SMB,LATAM,2020-08-25
+460,Mid-Market,North America,2020-09-07
+461,Enterprise,Europe,2020-09-20
+462,SMB,APAC,2020-10-03
+463,Mid-Market,LATAM,2020-10-16
+464,Enterprise,North America,2020-10-29
+465,SMB,Europe,2020-11-11
+466,Mid-Market,APAC,2020-11-24
+467,Enterprise,LATAM,2020-12-07
+468,SMB,North America,2020-12-20
+469,Mid-Market,Europe,2021-01-02
+470,Enterprise,APAC,2021-01-15
+471,SMB,LATAM,2021-01-28
+472,Mid-Market,North America,2021-02-10
+473,Enterprise,Europe,2021-02-23
+474,SMB,APAC,2021-03-08
+475,Mid-Market,LATAM,2021-03-21
+476,Enterprise,North America,2021-04-03
+477,SMB,Europe,2021-04-16
+478,Mid-Market,APAC,2021-04-29
+479,Enterprise,LATAM,2021-05-12
+480,SMB,North America,2021-05-25
+481,Mid-Market,Europe,2021-06-07
+482,Enterprise,APAC,2021-06-20
+483,SMB,LATAM,2021-07-03
+484,Mid-Market,North America,2021-07-16
+485,Enterprise,Europe,2021-07-29
+486,SMB,APAC,2021-08-11
+487,Mid-Market,LATAM,2021-08-24
+488,Enterprise,North America,2021-09-06
+489,SMB,Europe,2021-09-19
+490,Mid-Market,APAC,2021-10-02
+491,Enterprise,LATAM,2021-10-15
+492,SMB,North America,2021-10-28
+493,Mid-Market,Europe,2021-11-10
+494,Enterprise,APAC,2021-11-23
+495,SMB,LATAM,2021-12-06
+496,Mid-Market,North America,2021-12-19
+497,Enterprise,Europe,2022-01-01
+498,SMB,APAC,2022-01-14
+499,Mid-Market,LATAM,2022-01-27
+500,Enterprise,North America,2022-02-09
+501,SMB,Europe,2022-02-22
+502,Mid-Market,APAC,2022-03-07
+503,Enterprise,LATAM,2022-03-20
+504,SMB,North America,2022-04-02
+505,Mid-Market,Europe,2022-04-15
+506,Enterprise,APAC,2022-04-28
+507,SMB,LATAM,2022-05-11
+508,Mid-Market,North America,2022-05-24
+509,Enterprise,Europe,2022-06-06
+510,SMB,APAC,2022-06-19
+511,Mid-Market,LATAM,2022-07-02
+512,Enterprise,North America,2022-07-15
+513,SMB,Europe,2022-07-28
+514,Mid-Market,APAC,2022-08-10
+515,Enterprise,LATAM,2022-08-23
+516,SMB,North America,2022-09-05
+517,Mid-Market,Europe,2022-09-18
+518,Enterprise,APAC,2022-10-01
+519,SMB,LATAM,2022-10-14
+520,Mid-Market,North America,2022-10-27
+521,Enterprise,Europe,2022-11-09
+522,SMB,APAC,2022-11-22
+523,Mid-Market,LATAM,2022-12-05
+524,Enterprise,North America,2022-12-18
+525,SMB,Europe,2022-12-31
+526,Mid-Market,APAC,2023-01-13
+527,Enterprise,LATAM,2023-01-26
+528,SMB,North America,2023-02-08
+529,Mid-Market,Europe,2023-02-21
+530,Enterprise,APAC,2023-03-06
+531,SMB,LATAM,2023-03-19
+532,Mid-Market,North America,2023-04-01
+533,Enterprise,Europe,2023-04-14
+534,SMB,APAC,2023-04-27
+535,Mid-Market,LATAM,2023-05-10
+536,Enterprise,North America,2023-05-23
+537,SMB,Europe,2023-06-05
+538,Mid-Market,APAC,2023-06-18
+539,Enterprise,LATAM,2023-07-01
+540,SMB,North America,2023-07-14
+541,Mid-Market,Europe,2023-07-27
+542,Enterprise,APAC,2023-08-09
+543,SMB,LATAM,2023-08-22
+544,Mid-Market,North America,2023-09-04
+545,Enterprise,Europe,2023-09-17
+546,SMB,APAC,2023-09-30
+547,Mid-Market,LATAM,2023-10-13
+548,Enterprise,North America,2023-10-26
+549,SMB,Europe,2023-11-08
+550,Mid-Market,APAC,2023-11-21
+551,Enterprise,LATAM,2023-12-04
+552,SMB,North America,2023-12-17
+553,Mid-Market,Europe,2023-12-30
+554,Enterprise,APAC,2024-01-12
+555,SMB,LATAM,2024-01-25
+556,Mid-Market,North America,2024-02-07
+557,Enterprise,Europe,2024-02-20
+558,SMB,APAC,2024-03-04
+559,Mid-Market,LATAM,2024-03-17
+560,Enterprise,North America,2024-03-30
+561,SMB,Europe,2024-04-12
+562,Mid-Market,APAC,2024-04-25
+563,Enterprise,LATAM,2024-05-08
+564,SMB,North America,2024-05-21
+565,Mid-Market,Europe,2024-06-03
+566,Enterprise,APAC,2024-06-16
+567,SMB,LATAM,2024-06-29
+568,Mid-Market,North America,2024-07-12
+569,Enterprise,Europe,2024-07-25
+570,SMB,APAC,2024-08-07
+571,Mid-Market,LATAM,2024-08-20
+572,Enterprise,North America,2024-09-02
+573,SMB,Europe,2024-09-15
+574,Mid-Market,APAC,2024-09-28
+575,Enterprise,LATAM,2024-10-11
+576,SMB,North America,2024-10-24
+577,Mid-Market,Europe,2018-01-02
+578,Enterprise,APAC,2018-01-15
+579,SMB,LATAM,2018-01-28
+580,Mid-Market,North America,2018-02-10
+581,Enterprise,Europe,2018-02-23
+582,SMB,APAC,2018-03-08
+583,Mid-Market,LATAM,2018-03-21
+584,Enterprise,North America,2018-04-03
+585,SMB,Europe,2018-04-16
+586,Mid-Market,APAC,2018-04-29
+587,Enterprise,LATAM,2018-05-12
+588,SMB,North America,2018-05-25
+589,Mid-Market,Europe,2018-06-07
+590,Enterprise,APAC,2018-06-20
+591,SMB,LATAM,2018-07-03
+592,Mid-Market,North America,2018-07-16
+593,Enterprise,Europe,2018-07-29
+594,SMB,APAC,2018-08-11
+595,Mid-Market,LATAM,2018-08-24
+596,Enterprise,North America,2018-09-06
+597,SMB,Europe,2018-09-19
+598,Mid-Market,APAC,2018-10-02
+599,Enterprise,LATAM,2018-10-15
+600,SMB,North America,2018-10-28
+601,Mid-Market,Europe,2018-11-10
+602,Enterprise,APAC,2018-11-23
+603,SMB,LATAM,2018-12-06
+604,Mid-Market,North America,2018-12-19
+605,Enterprise,Europe,2019-01-01
+606,SMB,APAC,2019-01-14
+607,Mid-Market,LATAM,2019-01-27
+608,Enterprise,North America,2019-02-09
+609,SMB,Europe,2019-02-22
+610,Mid-Market,APAC,2019-03-07
+611,Enterprise,LATAM,2019-03-20
+612,SMB,North America,2019-04-02
+613,Mid-Market,Europe,2019-04-15
+614,Enterprise,APAC,2019-04-28
+615,SMB,LATAM,2019-05-11
+616,Mid-Market,North America,2019-05-24
+617,Enterprise,Europe,2019-06-06
+618,SMB,APAC,2019-06-19
+619,Mid-Market,LATAM,2019-07-02
+620,Enterprise,North America,2019-07-15
+621,SMB,Europe,2019-07-28
+622,Mid-Market,APAC,2019-08-10
+623,Enterprise,LATAM,2019-08-23
+624,SMB,North America,2019-09-05
+625,Mid-Market,Europe,2019-09-18
+626,Enterprise,APAC,2019-10-01
+627,SMB,LATAM,2019-10-14
+628,Mid-Market,North America,2019-10-27
+629,Enterprise,Europe,2019-11-09
+630,SMB,APAC,2019-11-22
+631,Mid-Market,LATAM,2019-12-05
+632,Enterprise,North America,2019-12-18
+633,SMB,Europe,2019-12-31
+634,Mid-Market,APAC,2020-01-13
+635,Enterprise,LATAM,2020-01-26
+636,SMB,North America,2020-02-08
+637,Mid-Market,Europe,2020-02-21
+638,Enterprise,APAC,2020-03-05
+639,SMB,LATAM,2020-03-18
+640,Mid-Market,North America,2020-03-31
+641,Enterprise,Europe,2020-04-13
+642,SMB,APAC,2020-04-26
+643,Mid-Market,LATAM,2020-05-09
+644,Enterprise,North America,2020-05-22
+645,SMB,Europe,2020-06-04
+646,Mid-Market,APAC,2020-06-17
+647,Enterprise,LATAM,2020-06-30
+648,SMB,North America,2020-07-13
+649,Mid-Market,Europe,2020-07-26
+650,Enterprise,APAC,2020-08-08
+651,SMB,LATAM,2020-08-21
+652,Mid-Market,North America,2020-09-03
+653,Enterprise,Europe,2020-09-16
+654,SMB,APAC,2020-09-29
+655,Mid-Market,LATAM,2020-10-12
+656,Enterprise,North America,2020-10-25
+657,SMB,Europe,2020-11-07
+658,Mid-Market,APAC,2020-11-20
+659,Enterprise,LATAM,2020-12-03
+660,SMB,North America,2020-12-16
+661,Mid-Market,Europe,2020-12-29
+662,Enterprise,APAC,2021-01-11
+663,SMB,LATAM,2021-01-24
+664,Mid-Market,North America,2021-02-06
+665,Enterprise,Europe,2021-02-19
+666,SMB,APAC,2021-03-04
+667,Mid-Market,LATAM,2021-03-17
+668,Enterprise,North America,2021-03-30
+669,SMB,Europe,2021-04-12
+670,Mid-Market,APAC,2021-04-25
+671,Enterprise,LATAM,2021-05-08
+672,SMB,North America,2021-05-21
+673,Mid-Market,Europe,2021-06-03
+674,Enterprise,APAC,2021-06-16
+675,SMB,LATAM,2021-06-29
+676,Mid-Market,North America,2021-07-12
+677,Enterprise,Europe,2021-07-25
+678,SMB,APAC,2021-08-07
+679,Mid-Market,LATAM,2021-08-20
+680,Enterprise,North America,2021-09-02
+681,SMB,Europe,2021-09-15
+682,Mid-Market,APAC,2021-09-28
+683,Enterprise,LATAM,2021-10-11
+684,SMB,North America,2021-10-24
+685,Mid-Market,Europe,2021-11-06
+686,Enterprise,APAC,2021-11-19
+687,SMB,LATAM,2021-12-02
+688,Mid-Market,North America,2021-12-15
+689,Enterprise,Europe,2021-12-28
+690,SMB,APAC,2022-01-10
+691,Mid-Market,LATAM,2022-01-23
+692,Enterprise,North America,2022-02-05
+693,SMB,Europe,2022-02-18
+694,Mid-Market,APAC,2022-03-03
+695,Enterprise,LATAM,2022-03-16
+696,SMB,North America,2022-03-29
+697,Mid-Market,Europe,2022-04-11
+698,Enterprise,APAC,2022-04-24
+699,SMB,LATAM,2022-05-07
+700,Mid-Market,North America,2022-05-20
+701,Enterprise,Europe,2022-06-02
+702,SMB,APAC,2022-06-15
+703,Mid-Market,LATAM,2022-06-28
+704,Enterprise,North America,2022-07-11
+705,SMB,Europe,2022-07-24
+706,Mid-Market,APAC,2022-08-06
+707,Enterprise,LATAM,2022-08-19
+708,SMB,North America,2022-09-01
+709,Mid-Market,Europe,2022-09-14
+710,Enterprise,APAC,2022-09-27
+711,SMB,LATAM,2022-10-10
+712,Mid-Market,North America,2022-10-23
+713,Enterprise,Europe,2022-11-05
+714,SMB,APAC,2022-11-18
+715,Mid-Market,LATAM,2022-12-01
+716,Enterprise,North America,2022-12-14
+717,SMB,Europe,2022-12-27
+718,Mid-Market,APAC,2023-01-09
+719,Enterprise,LATAM,2023-01-22
+720,SMB,North America,2023-02-04
+721,Mid-Market,Europe,2023-02-17
+722,Enterprise,APAC,2023-03-02
+723,SMB,LATAM,2023-03-15
+724,Mid-Market,North America,2023-03-28
+725,Enterprise,Europe,2023-04-10
+726,SMB,APAC,2023-04-23
+727,Mid-Market,LATAM,2023-05-06
+728,Enterprise,North America,2023-05-19
+729,SMB,Europe,2023-06-01
+730,Mid-Market,APAC,2023-06-14
+731,Enterprise,LATAM,2023-06-27
+732,SMB,North America,2023-07-10
+733,Mid-Market,Europe,2023-07-23
+734,Enterprise,APAC,2023-08-05
+735,SMB,LATAM,2023-08-18
+736,Mid-Market,North America,2023-08-31
+737,Enterprise,Europe,2023-09-13
+738,SMB,APAC,2023-09-26
+739,Mid-Market,LATAM,2023-10-09
+740,Enterprise,North America,2023-10-22
+741,SMB,Europe,2023-11-04
+742,Mid-Market,APAC,2023-11-17
+743,Enterprise,LATAM,2023-11-30
+744,SMB,North America,2023-12-13
+745,Mid-Market,Europe,2023-12-26
+746,Enterprise,APAC,2024-01-08
+747,SMB,LATAM,2024-01-21
+748,Mid-Market,North America,2024-02-03
+749,Enterprise,Europe,2024-02-16
+750,SMB,APAC,2024-02-29
+751,Mid-Market,LATAM,2024-03-13
+752,Enterprise,North America,2024-03-26
+753,SMB,Europe,2024-04-08
+754,Mid-Market,APAC,2024-04-21
+755,Enterprise,LATAM,2024-05-04
+756,SMB,North America,2024-05-17
+757,Mid-Market,Europe,2024-05-30
+758,Enterprise,APAC,2024-06-12
+759,SMB,LATAM,2024-06-25
+760,Mid-Market,North America,2024-07-08
+761,Enterprise,Europe,2024-07-21
+762,SMB,APAC,2024-08-03
+763,Mid-Market,LATAM,2024-08-16
+764,Enterprise,North America,2024-08-29
+765,SMB,Europe,2024-09-11
+766,Mid-Market,APAC,2024-09-24
+767,Enterprise,LATAM,2024-10-07
+768,SMB,North America,2024-10-20
+769,Mid-Market,Europe,2024-11-02
+770,Enterprise,APAC,2018-01-11
+771,SMB,LATAM,2018-01-24
+772,Mid-Market,North America,2018-02-06
+773,Enterprise,Europe,2018-02-19
+774,SMB,APAC,2018-03-04
+775,Mid-Market,LATAM,2018-03-17
+776,Enterprise,North America,2018-03-30
+777,SMB,Europe,2018-04-12
+778,Mid-Market,APAC,2018-04-25
+779,Enterprise,LATAM,2018-05-08
+780,SMB,North America,2018-05-21
+781,Mid-Market,Europe,2018-06-03
+782,Enterprise,APAC,2018-06-16
+783,SMB,LATAM,2018-06-29
+784,Mid-Market,North America,2018-07-12
+785,Enterprise,Europe,2018-07-25
+786,SMB,APAC,2018-08-07
+787,Mid-Market,LATAM,2018-08-20
+788,Enterprise,North America,2018-09-02
+789,SMB,Europe,2018-09-15
+790,Mid-Market,APAC,2018-09-28
+791,Enterprise,LATAM,2018-10-11
+792,SMB,North America,2018-10-24
+793,Mid-Market,Europe,2018-11-06
+794,Enterprise,APAC,2018-11-19
+795,SMB,LATAM,2018-12-02
+796,Mid-Market,North America,2018-12-15
+797,Enterprise,Europe,2018-12-28
+798,SMB,APAC,2019-01-10
+799,Mid-Market,LATAM,2019-01-23
+800,Enterprise,North America,2019-02-05
+801,SMB,Europe,2019-02-18
+802,Mid-Market,APAC,2019-03-03
+803,Enterprise,LATAM,2019-03-16
+804,SMB,North America,2019-03-29
+805,Mid-Market,Europe,2019-04-11
+806,Enterprise,APAC,2019-04-24
+807,SMB,LATAM,2019-05-07
+808,Mid-Market,North America,2019-05-20
+809,Enterprise,Europe,2019-06-02
+810,SMB,APAC,2019-06-15
+811,Mid-Market,LATAM,2019-06-28
+812,Enterprise,North America,2019-07-11
+813,SMB,Europe,2019-07-24
+814,Mid-Market,APAC,2019-08-06
+815,Enterprise,LATAM,2019-08-19
+816,SMB,North America,2019-09-01
+817,Mid-Market,Europe,2019-09-14
+818,Enterprise,APAC,2019-09-27
+819,SMB,LATAM,2019-10-10
+820,Mid-Market,North America,2019-10-23
+821,Enterprise,Europe,2019-11-05
+822,SMB,APAC,2019-11-18
+823,Mid-Market,LATAM,2019-12-01
+824,Enterprise,North America,2019-12-14
+825,SMB,Europe,2019-12-27
+826,Mid-Market,APAC,2020-01-09
+827,Enterprise,LATAM,2020-01-22
+828,SMB,North America,2020-02-04
+829,Mid-Market,Europe,2020-02-17
+830,Enterprise,APAC,2020-03-01
+831,SMB,LATAM,2020-03-14
+832,Mid-Market,North America,2020-03-27
+833,Enterprise,Europe,2020-04-09
+834,SMB,APAC,2020-04-22
+835,Mid-Market,LATAM,2020-05-05
+836,Enterprise,North America,2020-05-18
+837,SMB,Europe,2020-05-31
+838,Mid-Market,APAC,2020-06-13
+839,Enterprise,LATAM,2020-06-26
+840,SMB,North America,2020-07-09
+841,Mid-Market,Europe,2020-07-22
+842,Enterprise,APAC,2020-08-04
+843,SMB,LATAM,2020-08-17
+844,Mid-Market,North America,2020-08-30
+845,Enterprise,Europe,2020-09-12
+846,SMB,APAC,2020-09-25
+847,Mid-Market,LATAM,2020-10-08
+848,Enterprise,North America,2020-10-21
+849,SMB,Europe,2020-11-03
+850,Mid-Market,APAC,2020-11-16
+851,Enterprise,LATAM,2020-11-29
+852,SMB,North America,2020-12-12
+853,Mid-Market,Europe,2020-12-25
+854,Enterprise,APAC,2021-01-07
+855,SMB,LATAM,2021-01-20
+856,Mid-Market,North America,2021-02-02
+857,Enterprise,Europe,2021-02-15
+858,SMB,APAC,2021-02-28
+859,Mid-Market,LATAM,2021-03-13
+860,Enterprise,North America,2021-03-26
+861,SMB,Europe,2021-04-08
+862,Mid-Market,APAC,2021-04-21
+863,Enterprise,LATAM,2021-05-04
+864,SMB,North America,2021-05-17
+865,Mid-Market,Europe,2021-05-30
+866,Enterprise,APAC,2021-06-12
+867,SMB,LATAM,2021-06-25
+868,Mid-Market,North America,2021-07-08
+869,Enterprise,Europe,2021-07-21
+870,SMB,APAC,2021-08-03
+871,Mid-Market,LATAM,2021-08-16
+872,Enterprise,North America,2021-08-29
+873,SMB,Europe,2021-09-11
+874,Mid-Market,APAC,2021-09-24
+875,Enterprise,LATAM,2021-10-07
+876,SMB,North America,2021-10-20
+877,Mid-Market,Europe,2021-11-02
+878,Enterprise,APAC,2021-11-15
+879,SMB,LATAM,2021-11-28
+880,Mid-Market,North America,2021-12-11
+881,Enterprise,Europe,2021-12-24
+882,SMB,APAC,2022-01-06
+883,Mid-Market,LATAM,2022-01-19
+884,Enterprise,North America,2022-02-01
+885,SMB,Europe,2022-02-14
+886,Mid-Market,APAC,2022-02-27
+887,Enterprise,LATAM,2022-03-12
+888,SMB,North America,2022-03-25
+889,Mid-Market,Europe,2022-04-07
+890,Enterprise,APAC,2022-04-20
+891,SMB,LATAM,2022-05-03
+892,Mid-Market,North America,2022-05-16
+893,Enterprise,Europe,2022-05-29
+894,SMB,APAC,2022-06-11
+895,Mid-Market,LATAM,2022-06-24
+896,Enterprise,North America,2022-07-07
+897,SMB,Europe,2022-07-20
+898,Mid-Market,APAC,2022-08-02
+899,Enterprise,LATAM,2022-08-15
+900,SMB,North America,2022-08-28
+901,Mid-Market,Europe,2022-09-10
+902,Enterprise,APAC,2022-09-23
+903,SMB,LATAM,2022-10-06
+904,Mid-Market,North America,2022-10-19
+905,Enterprise,Europe,2022-11-01
+906,SMB,APAC,2022-11-14
+907,Mid-Market,LATAM,2022-11-27
+908,Enterprise,North America,2022-12-10
+909,SMB,Europe,2022-12-23
+910,Mid-Market,APAC,2023-01-05
+911,Enterprise,LATAM,2023-01-18
+912,SMB,North America,2023-01-31
+913,Mid-Market,Europe,2023-02-13
+914,Enterprise,APAC,2023-02-26
+915,SMB,LATAM,2023-03-11
+916,Mid-Market,North America,2023-03-24
+917,Enterprise,Europe,2023-04-06
+918,SMB,APAC,2023-04-19
+919,Mid-Market,LATAM,2023-05-02
+920,Enterprise,North America,2023-05-15
+921,SMB,Europe,2023-05-28
+922,Mid-Market,APAC,2023-06-10
+923,Enterprise,LATAM,2023-06-23
+924,SMB,North America,2023-07-06
+925,Mid-Market,Europe,2023-07-19
+926,Enterprise,APAC,2023-08-01
+927,SMB,LATAM,2023-08-14
+928,Mid-Market,North America,2023-08-27
+929,Enterprise,Europe,2023-09-09
+930,SMB,APAC,2023-09-22
+931,Mid-Market,LATAM,2023-10-05
+932,Enterprise,North America,2023-10-18
+933,SMB,Europe,2023-10-31
+934,Mid-Market,APAC,2023-11-13
+935,Enterprise,LATAM,2023-11-26
+936,SMB,North America,2023-12-09
+937,Mid-Market,Europe,2023-12-22
+938,Enterprise,APAC,2024-01-04
+939,SMB,LATAM,2024-01-17
+940,Mid-Market,North America,2024-01-30
+941,Enterprise,Europe,2024-02-12
+942,SMB,APAC,2024-02-25
+943,Mid-Market,LATAM,2024-03-09
+944,Enterprise,North America,2024-03-22
+945,SMB,Europe,2024-04-04
+946,Mid-Market,APAC,2024-04-17
+947,Enterprise,LATAM,2024-04-30
+948,SMB,North America,2024-05-13
+949,Mid-Market,Europe,2024-05-26
+950,Enterprise,APAC,2024-06-08
+951,SMB,LATAM,2024-06-21
+952,Mid-Market,North America,2024-07-04
+953,Enterprise,Europe,2024-07-17
+954,SMB,APAC,2024-07-30
+955,Mid-Market,LATAM,2024-08-12
+956,Enterprise,North America,2024-08-25
+957,SMB,Europe,2024-09-07
+958,Mid-Market,APAC,2024-09-20
+959,Enterprise,LATAM,2024-10-03
+960,SMB,North America,2024-10-16
+961,Mid-Market,Europe,2024-10-29
+962,Enterprise,APAC,2018-01-07
+963,SMB,LATAM,2018-01-20
+964,Mid-Market,North America,2018-02-02
+965,Enterprise,Europe,2018-02-15
+966,SMB,APAC,2018-02-28
+967,Mid-Market,LATAM,2018-03-13
+968,Enterprise,North America,2018-03-26
+969,SMB,Europe,2018-04-08
+970,Mid-Market,APAC,2018-04-21
+971,Enterprise,LATAM,2018-05-04
+972,SMB,North America,2018-05-17
+973,Mid-Market,Europe,2018-05-30
+974,Enterprise,APAC,2018-06-12
+975,SMB,LATAM,2018-06-25
+976,Mid-Market,North America,2018-07-08
+977,Enterprise,Europe,2018-07-21
+978,SMB,APAC,2018-08-03
+979,Mid-Market,LATAM,2018-08-16
+980,Enterprise,North America,2018-08-29
+981,SMB,Europe,2018-09-11
+982,Mid-Market,APAC,2018-09-24
+983,Enterprise,LATAM,2018-10-07
+984,SMB,North America,2018-10-20
+985,Mid-Market,Europe,2018-11-02
+986,Enterprise,APAC,2018-11-15
+987,SMB,LATAM,2018-11-28
+988,Mid-Market,North America,2018-12-11
+989,Enterprise,Europe,2018-12-24
+990,SMB,APAC,2019-01-06
+991,Mid-Market,LATAM,2019-01-19
+992,Enterprise,North America,2019-02-01
+993,SMB,Europe,2019-02-14
+994,Mid-Market,APAC,2019-02-27
+995,Enterprise,LATAM,2019-03-12
+996,SMB,North America,2019-03-25
+997,Mid-Market,Europe,2019-04-07
+998,Enterprise,APAC,2019-04-20
+999,SMB,LATAM,2019-05-03
+1000,Mid-Market,North America,2019-05-16
+1001,Enterprise,Europe,2019-05-29
+1002,SMB,APAC,2019-06-11
+1003,Mid-Market,LATAM,2019-06-24
+1004,Enterprise,North America,2019-07-07
+1005,SMB,Europe,2019-07-20
+1006,Mid-Market,APAC,2019-08-02
+1007,Enterprise,LATAM,2019-08-15
+1008,SMB,North America,2019-08-28
+1009,Mid-Market,Europe,2019-09-10
+1010,Enterprise,APAC,2019-09-23
+1011,SMB,LATAM,2019-10-06
+1012,Mid-Market,North America,2019-10-19
+1013,Enterprise,Europe,2019-11-01
+1014,SMB,APAC,2019-11-14
+1015,Mid-Market,LATAM,2019-11-27
+1016,Enterprise,North America,2019-12-10
+1017,SMB,Europe,2019-12-23
+1018,Mid-Market,APAC,2020-01-05
+1019,Enterprise,LATAM,2020-01-18
+1020,SMB,North America,2020-01-31
+1021,Mid-Market,Europe,2020-02-13
+1022,Enterprise,APAC,2020-02-26
+1023,SMB,LATAM,2020-03-10
+1024,Mid-Market,North America,2020-03-23
+1025,Enterprise,Europe,2020-04-05
+1026,SMB,APAC,2020-04-18
+1027,Mid-Market,LATAM,2020-05-01
+1028,Enterprise,North America,2020-05-14
+1029,SMB,Europe,2020-05-27
+1030,Mid-Market,APAC,2020-06-09
+1031,Enterprise,LATAM,2020-06-22
+1032,SMB,North America,2020-07-05
+1033,Mid-Market,Europe,2020-07-18
+1034,Enterprise,APAC,2020-07-31
+1035,SMB,LATAM,2020-08-13
+1036,Mid-Market,North America,2020-08-26
+1037,Enterprise,Europe,2020-09-08
+1038,SMB,APAC,2020-09-21
+1039,Mid-Market,LATAM,2020-10-04
+1040,Enterprise,North America,2020-10-17
+1041,SMB,Europe,2020-10-30
+1042,Mid-Market,APAC,2020-11-12
+1043,Enterprise,LATAM,2020-11-25
+1044,SMB,North America,2020-12-08
+1045,Mid-Market,Europe,2020-12-21
+1046,Enterprise,APAC,2021-01-03
+1047,SMB,LATAM,2021-01-16
+1048,Mid-Market,North America,2021-01-29
+1049,Enterprise,Europe,2021-02-11
+1050,SMB,APAC,2021-02-24
+1051,Mid-Market,LATAM,2021-03-09
+1052,Enterprise,North America,2021-03-22
+1053,SMB,Europe,2021-04-04
+1054,Mid-Market,APAC,2021-04-17
+1055,Enterprise,LATAM,2021-04-30
+1056,SMB,North America,2021-05-13
+1057,Mid-Market,Europe,2021-05-26
+1058,Enterprise,APAC,2021-06-08
+1059,SMB,LATAM,2021-06-21
+1060,Mid-Market,North America,2021-07-04
+1061,Enterprise,Europe,2021-07-17
+1062,SMB,APAC,2021-07-30
+1063,Mid-Market,LATAM,2021-08-12
+1064,Enterprise,North America,2021-08-25
+1065,SMB,Europe,2021-09-07
+1066,Mid-Market,APAC,2021-09-20
+1067,Enterprise,LATAM,2021-10-03
+1068,SMB,North America,2021-10-16
+1069,Mid-Market,Europe,2021-10-29
+1070,Enterprise,APAC,2021-11-11
+1071,SMB,LATAM,2021-11-24
+1072,Mid-Market,North America,2021-12-07
+1073,Enterprise,Europe,2021-12-20
+1074,SMB,APAC,2022-01-02
+1075,Mid-Market,LATAM,2022-01-15
+1076,Enterprise,North America,2022-01-28
+1077,SMB,Europe,2022-02-10
+1078,Mid-Market,APAC,2022-02-23
+1079,Enterprise,LATAM,2022-03-08
+1080,SMB,North America,2022-03-21
+1081,Mid-Market,Europe,2022-04-03
+1082,Enterprise,APAC,2022-04-16
+1083,SMB,LATAM,2022-04-29
+1084,Mid-Market,North America,2022-05-12
+1085,Enterprise,Europe,2022-05-25
+1086,SMB,APAC,2022-06-07
+1087,Mid-Market,LATAM,2022-06-20
+1088,Enterprise,North America,2022-07-03
+1089,SMB,Europe,2022-07-16
+1090,Mid-Market,APAC,2022-07-29
+1091,Enterprise,LATAM,2022-08-11
+1092,SMB,North America,2022-08-24
+1093,Mid-Market,Europe,2022-09-06
+1094,Enterprise,APAC,2022-09-19
+1095,SMB,LATAM,2022-10-02
+1096,Mid-Market,North America,2022-10-15
+1097,Enterprise,Europe,2022-10-28
+1098,SMB,APAC,2022-11-10
+1099,Mid-Market,LATAM,2022-11-23
+1100,Enterprise,North America,2022-12-06
+1101,SMB,Europe,2022-12-19
+1102,Mid-Market,APAC,2023-01-01
+1103,Enterprise,LATAM,2023-01-14
+1104,SMB,North America,2023-01-27
+1105,Mid-Market,Europe,2023-02-09
+1106,Enterprise,APAC,2023-02-22
+1107,SMB,LATAM,2023-03-07
+1108,Mid-Market,North America,2023-03-20
+1109,Enterprise,Europe,2023-04-02
+1110,SMB,APAC,2023-04-15
+1111,Mid-Market,LATAM,2023-04-28
+1112,Enterprise,North America,2023-05-11
+1113,SMB,Europe,2023-05-24
+1114,Mid-Market,APAC,2023-06-06
+1115,Enterprise,LATAM,2023-06-19
+1116,SMB,North America,2023-07-02
+1117,Mid-Market,Europe,2023-07-15
+1118,Enterprise,APAC,2023-07-28
+1119,SMB,LATAM,2023-08-10
+1120,Mid-Market,North America,2023-08-23
+1121,Enterprise,Europe,2023-09-05
+1122,SMB,APAC,2023-09-18
+1123,Mid-Market,LATAM,2023-10-01
+1124,Enterprise,North America,2023-10-14
+1125,SMB,Europe,2023-10-27
+1126,Mid-Market,APAC,2023-11-09
+1127,Enterprise,LATAM,2023-11-22
+1128,SMB,North America,2023-12-05
+1129,Mid-Market,Europe,2023-12-18
+1130,Enterprise,APAC,2023-12-31
+1131,SMB,LATAM,2024-01-13
+1132,Mid-Market,North America,2024-01-26
+1133,Enterprise,Europe,2024-02-08
+1134,SMB,APAC,2024-02-21
+1135,Mid-Market,LATAM,2024-03-05
+1136,Enterprise,North America,2024-03-18
+1137,SMB,Europe,2024-03-31
+1138,Mid-Market,APAC,2024-04-13
+1139,Enterprise,LATAM,2024-04-26
+1140,SMB,North America,2024-05-09
+1141,Mid-Market,Europe,2024-05-22
+1142,Enterprise,APAC,2024-06-04
+1143,SMB,LATAM,2024-06-17
+1144,Mid-Market,North America,2024-06-30
+1145,Enterprise,Europe,2024-07-13
+1146,SMB,APAC,2024-07-26
+1147,Mid-Market,LATAM,2024-08-08
+1148,Enterprise,North America,2024-08-21
+1149,SMB,Europe,2024-09-03
+1150,Mid-Market,APAC,2024-09-16
+1151,Enterprise,LATAM,2024-09-29
+1152,SMB,North America,2024-10-12
+1153,Mid-Market,Europe,2024-10-25
+1154,Enterprise,APAC,2018-01-03
+1155,SMB,LATAM,2018-01-16
+1156,Mid-Market,North America,2018-01-29
+1157,Enterprise,Europe,2018-02-11
+1158,SMB,APAC,2018-02-24
+1159,Mid-Market,LATAM,2018-03-09
+1160,Enterprise,North America,2018-03-22
+1161,SMB,Europe,2018-04-04
+1162,Mid-Market,APAC,2018-04-17
+1163,Enterprise,LATAM,2018-04-30
+1164,SMB,North America,2018-05-13
+1165,Mid-Market,Europe,2018-05-26
+1166,Enterprise,APAC,2018-06-08
+1167,SMB,LATAM,2018-06-21
+1168,Mid-Market,North America,2018-07-04
+1169,Enterprise,Europe,2018-07-17
+1170,SMB,APAC,2018-07-30
+1171,Mid-Market,LATAM,2018-08-12
+1172,Enterprise,North America,2018-08-25
+1173,SMB,Europe,2018-09-07
+1174,Mid-Market,APAC,2018-09-20
+1175,Enterprise,LATAM,2018-10-03
+1176,SMB,North America,2018-10-16
+1177,Mid-Market,Europe,2018-10-29
+1178,Enterprise,APAC,2018-11-11
+1179,SMB,LATAM,2018-11-24
+1180,Mid-Market,North America,2018-12-07
+1181,Enterprise,Europe,2018-12-20
+1182,SMB,APAC,2019-01-02
+1183,Mid-Market,LATAM,2019-01-15
+1184,Enterprise,North America,2019-01-28
+1185,SMB,Europe,2019-02-10
+1186,Mid-Market,APAC,2019-02-23
+1187,Enterprise,LATAM,2019-03-08
+1188,SMB,North America,2019-03-21
+1189,Mid-Market,Europe,2019-04-03
+1190,Enterprise,APAC,2019-04-16
+1191,SMB,LATAM,2019-04-29
+1192,Mid-Market,North America,2019-05-12
+1193,Enterprise,Europe,2019-05-25
+1194,SMB,APAC,2019-06-07
+1195,Mid-Market,LATAM,2019-06-20
+1196,Enterprise,North America,2019-07-03
+1197,SMB,Europe,2019-07-16
+1198,Mid-Market,APAC,2019-07-29
+1199,Enterprise,LATAM,2019-08-11
+1200,SMB,North America,2019-08-24

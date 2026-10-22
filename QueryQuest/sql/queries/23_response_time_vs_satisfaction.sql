@@ -1,0 +1,3 @@
+-- First-response time versus satisfaction score
+-- Tables: tickets
+SELECT CASE WHEN (julianday(first_response_at)-julianday(created_at))*1440 < 30 THEN 'Under 30 min' WHEN (julianday(first_response_at)-julianday(created_at))*1440 < 120 THEN '30-120 min' WHEN (julianday(first_response_at)-julianday(created_at))*1440 < 480 THEN '2-8 hours' ELSE 'Over 8 hours' END AS response_bucket, COUNT(*) AS tickets, ROUND(AVG(satisfaction_score),2) AS avg_csat FROM tickets WHERE first_response_at IS NOT NULL AND satisfaction_score IS NOT NULL GROUP BY response_bucket ORDER BY MIN((julianday(first_response_at)-julianday(created_at))*1440);

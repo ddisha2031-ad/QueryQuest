@@ -1,0 +1,5 @@
+policy_id,priority,target_first_response_minutes,target_resolution_minutes
+1,Critical,30,240
+2,High,60,480
+3,Medium,120,1440
+4,Low,240,2880

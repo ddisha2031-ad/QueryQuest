@@ -1,0 +1,3 @@
+-- Ticket volume by day of week
+-- Tables: tickets
+SELECT CASE CAST(strftime('%w',created_at) AS INTEGER) WHEN 0 THEN 'Sunday' WHEN 1 THEN 'Monday' WHEN 2 THEN 'Tuesday' WHEN 3 THEN 'Wednesday' WHEN 4 THEN 'Thursday' WHEN 5 THEN 'Friday' ELSE 'Saturday' END AS day_of_week, COUNT(*) AS tickets FROM tickets GROUP BY day_of_week ORDER BY CAST(strftime('%w',created_at) AS INTEGER);

@@ -1,0 +1,39 @@
+query_id,business_question,tables,file
+01_total_tickets_by_status,Total tickets by status,tickets,sql/queries/01_total_tickets_by_status.sql
+02_ticket_volume_by_month,Ticket volume by month,tickets,sql/queries/02_ticket_volume_by_month.sql
+03_ticket_volume_by_week,Ticket volume by ISO week,tickets,sql/queries/03_ticket_volume_by_week.sql
+04_tickets_by_priority,Ticket distribution by priority,tickets,sql/queries/04_tickets_by_priority.sql
+05_tickets_by_category,Ticket distribution by category and subcategory,tickets,sql/queries/05_tickets_by_category.sql
+06_tickets_by_channel,Ticket volume by support channel,tickets,sql/queries/06_tickets_by_channel.sql
+07_avg_first_response_time,Average first-response time in minutes,tickets,sql/queries/07_avg_first_response_time.sql
+08_median_first_response_time,Median first-response time using ordered row numbers,tickets,sql/queries/08_median_first_response_time.sql
+09_avg_resolution_time,Average resolution time for resolved/closed tickets,tickets,sql/queries/09_avg_resolution_time.sql
+10_median_resolution_time,Median resolution time for resolved/closed tickets,tickets,sql/queries/10_median_resolution_time.sql
+11_sla_compliance_by_priority,SLA compliance by priority for eligible tickets,"tickets, sla_policies",sql/queries/11_sla_compliance_by_priority.sql
+12_sla_compliance_by_team,SLA compliance by support team,"tickets, sla_policies, teams",sql/queries/12_sla_compliance_by_team.sql
+13_sla_breaches_by_category,SLA breaches by issue category,"tickets, sla_policies",sql/queries/13_sla_breaches_by_category.sql
+14_open_tickets_by_age_band,Open tickets grouped by backlog age,tickets,sql/queries/14_open_tickets_by_age_band.sql
+15_overdue_unresolved_tickets,Unresolved tickets beyond SLA resolution target,"tickets, sla_policies",sql/queries/15_overdue_unresolved_tickets.sql
+16_reopened_ticket_rate,Reopened ticket rate,tickets,sql/queries/16_reopened_ticket_rate.sql
+17_csat_by_category,Customer satisfaction by issue category,tickets,sql/queries/17_csat_by_category.sql
+18_csat_by_channel,Customer satisfaction by support channel,tickets,sql/queries/18_csat_by_channel.sql
+19_workload_by_agent,Ticket assignments and open backlog by agent,"agents, tickets, teams",sql/queries/19_workload_by_agent.sql
+20_resolved_tickets_per_agent,Resolved tickets per agent,"agents, tickets",sql/queries/20_resolved_tickets_per_agent.sql
+21_sla_compliance_by_agent,SLA compliance by agent with sample size,"tickets, sla_policies, agents",sql/queries/21_sla_compliance_by_agent.sql
+22_agents_high_open_backlog,Agents with unusually high open-ticket backlog,"tickets, agents",sql/queries/22_agents_high_open_backlog.sql
+23_response_time_vs_satisfaction,First-response time versus satisfaction score,tickets,sql/queries/23_response_time_vs_satisfaction.sql
+24_resolution_time_vs_satisfaction,Resolution time versus satisfaction score,tickets,sql/queries/24_resolution_time_vs_satisfaction.sql
+25_tickets_by_day_of_week,Ticket volume by day of week,tickets,sql/queries/25_tickets_by_day_of_week.sql
+26_peak_arrival_hours,Peak ticket arrival hours,tickets,sql/queries/26_peak_arrival_hours.sql
+27_monthly_volume_mom_change,Monthly ticket volume with month-over-month change,tickets,sql/queries/27_monthly_volume_mom_change.sql
+28_monthly_sla_mom_change,Month-over-month SLA compliance,"tickets, sla_policies",sql/queries/28_monthly_sla_mom_change.sql
+29_top_categories_by_volume,Top issue categories by ticket volume,tickets,sql/queries/29_top_categories_by_volume.sql
+30_priority_avg_resolution_time,Average resolution time by priority,tickets,sql/queries/30_priority_avg_resolution_time.sql
+31_team_comparison_cte,Team comparison using CTEs,"tickets, sla_policies, teams",sql/queries/31_team_comparison_cte.sql
+32_agent_rankings_window,Agent rankings using window functions,"tickets, agents",sql/queries/32_agent_rankings_window.sql
+33_backlog_aging_case,Backlog aging using CASE expression,tickets,sql/queries/33_backlog_aging_case.sql
+34_operational_kpi_summary,Consolidated operational KPI summary,tickets,sql/queries/34_operational_kpi_summary.sql
+35_csat_by_customer_segment,Customer satisfaction by customer segment,"tickets, customers",sql/queries/35_csat_by_customer_segment.sql
+36_repeat_issue_categories,Repeat issue categories by customer,tickets,sql/queries/36_repeat_issue_categories.sql
+37_workload_distribution_by_team,Workload distribution by team,"tickets, teams",sql/queries/37_workload_distribution_by_team.sql
+38_high_priority_unresolved,High-priority unresolved tickets,tickets,sql/queries/38_high_priority_unresolved.sql
